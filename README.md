@@ -3,10 +3,10 @@
 
 ![bmioutputimage.jpg](src%2Foutputimage%2Fbmioutputimage.jpg)
 This repository contains the source code and deployment details for the BMI (Body Mass Index) Calculator project. The BMI calculator is a simple web application that allows users to calculate their BMI based on their weight and height inputs. This can be useful for individuals who want to monitor their health and fitness levels.
-[https://bmicalculator-arman.netlify.app/](https://bmicalculator-arman.netlify.app/).
+ 
 ## Live Demo
 You can access the live demo of the BMI Calculator project through the following Netlify link:
-
+[https://bmicalculator-arman.netlify.app/](https://bmicalculator-arman.netlify.app/).
 ## Features
 - Easy-to-use interface for entering weight and height.
 - Calculates BMI and provides an indication of the user's weight category (underweight, normal weight, overweight, or obese).
