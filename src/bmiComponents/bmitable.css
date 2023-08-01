@@ -1,0 +1,26 @@
+
+table, td, th {
+  border: 1px solid gray;
+  padding: 10px 20px;
+  color:white;
+
+}
+.bmitable tr:nth-child(1) {
+  background-color: black;
+}
+
+.bmitable tr:nth-child(2) {
+  background-color: #52aee5;
+}
+.bmitable tr:nth-child(3) {
+  background-color: #3eaf44;
+}
+.bmitable tr:nth-child(4) {
+  background-color: #f9b317;
+}
+.bmitable tr:nth-child(5) {
+  background-color: #ee4537;
+}
+.bmitable tr:nth-child(6) {
+  background-color: #e01d2a;
+}
