@@ -1,15 +1,31 @@
-# Getting Started with Create React App
+# HealthTracker(BMI) Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![bmioutputimage.jpg](src%2Foutputimage%2Fbmioutputimage.jpg)
+This repository contains the source code and deployment details for the BMI (Body Mass Index) Calculator project. The BMI calculator is a simple web application that allows users to calculate their BMI based on their weight and height inputs. This can be useful for individuals who want to monitor their health and fitness levels.
+[https://bmicalculator-arman.netlify.app/](https://bmicalculator-arman.netlify.app/).
+## Live Demo
+You can access the live demo of the BMI Calculator project through the following Netlify link:
 
-In the project directory, you can run:
+## Features
+- Easy-to-use interface for entering weight and height.
+- Calculates BMI and provides an indication of the user's weight category (underweight, normal weight, overweight, or obese).
+- Responsive design for optimal usage on various devices (desktop, tablet, mobile).
 
+## Getting Started
+1. Clone the repository to your local machine:
+
+   ```bash
+    https://github.com/arman229/CalculateBMI.git
+    
+2. Install node modules:
+### `npm install`
+
+3. Run this project in browser
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Runs the app in the development mode.\
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
