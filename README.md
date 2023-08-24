@@ -26,7 +26,7 @@ Experience the BMI Calculator in action by visiting the live demo link: [HealthT
 Follow these steps to set up the project locally:
 
 1. Clone the repository: `https://github.com/arman229/CalculateBMI.git`
-2. Navigate to the project directory: `cd healthtracker-bmi`
+2. Navigate to the project directory: `cd CalculateBMI`
 3. Install the dependencies: `npm install`
 
 ## Usage

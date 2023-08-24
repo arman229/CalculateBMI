@@ -56,7 +56,7 @@ const AppBarExample = () => {
                             className={'linkButton'}
                             startIcon={<GitHubIcon />}
                             color="inherit"
-                            href="https://github.com/arman229"
+                            href="https://github.com/arman229/CalculateBMI.git"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -93,7 +93,7 @@ const AppBarExample = () => {
                                 <ListItem
                                     button
                                     component="a"
-                                    href="https://github.com/arman229"
+                                    href="https://github.com/arman229/CalculateBMI.git"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
